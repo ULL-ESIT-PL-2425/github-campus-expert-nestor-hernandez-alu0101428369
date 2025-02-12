@@ -15,7 +15,7 @@
 
 ## Crear un project board kanban para este repositorio
 
-![project board kanban](docs/2025-02-12 (2).png)
+![project board kanban](docs/2025-02-12(2).png)
 
 ## Solicitar el GitHub Developer Pack
 
